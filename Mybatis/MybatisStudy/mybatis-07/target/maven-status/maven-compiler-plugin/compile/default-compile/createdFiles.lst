@@ -1,0 +1,5 @@
+com\lyc\utils\MybatisUtils.class
+com\lyc\dao\StudentMapper.class
+com\lyc\dao\TeacherMapper.class
+com\lyc\pojo\Student.class
+com\lyc\pojo\Teacher.class

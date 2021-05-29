@@ -1,0 +1,4 @@
+com\lyc\utils\IDutils.class
+com\lyc\utils\MybatisUtils.class
+com\lyc\dao\BlogMapper.class
+com\lyc\pojo\Blog.class
